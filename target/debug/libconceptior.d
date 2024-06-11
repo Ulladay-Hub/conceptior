@@ -1,0 +1,1 @@
+C:\Users\Legen\source\good\ programs\conceptior\target\debug\libconceptior.rlib: C:\Users\Legen\source\good\ programs\conceptior\src\lib.rs C:\Users\Legen\source\good\ programs\conceptior\src\models.rs
